@@ -1,2 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqihbadrian&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqihbadrian&layout=compact)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=fiqihbadrian&show_icons=true&theme=tokyonight](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20BDRIAN&fontColor=000000&stroke=ffffff&animation=fadeIn&strokeWidth=1&fontAlign=50))
