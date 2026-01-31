@@ -2,11 +2,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiqihbadrian&theme=dark&show_icons=true&locale=en&layout=compact" alt="fiqihbadrian" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fiqihbadrian&theme=dark&show_icons=true&locale=en" alt="fiqihbadrian" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fiqihbadrian&theme=dark&show_icons=true&locale=en&layout=compact" alt="fiqihbadrian" /></p>
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiqihbadrian/fiqihbadrian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiqihbadrian/fiqihbadrian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fiqihbadrian/fiqihbadrian/output/github-contribution-grid-snake.svg">
-</picture>
