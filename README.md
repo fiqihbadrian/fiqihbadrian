@@ -2,3 +2,4 @@
 -----
 
 ## Hello Im Fiqih Badrian
+Front End Developer
