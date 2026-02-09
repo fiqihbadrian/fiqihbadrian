@@ -5,5 +5,4 @@
 halo im bian
 go
 to
-home
-wo
+homehm
