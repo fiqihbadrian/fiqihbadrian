@@ -5,8 +5,3 @@
 halo im bian
 go
 to
-homehm
-hhhh
-p
-jj
-jkl
