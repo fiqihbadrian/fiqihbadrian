@@ -6,4 +6,3 @@ halo im bian
 go
 to
 hoouse
-h
