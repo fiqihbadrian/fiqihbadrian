@@ -2,7 +2,8 @@
 -----
 
 ## Hello Im Fiqih Badrian
-halo im bian
-go
-to
-hoouse
+
+## 📌 About Me
+Still learning and experimenting.  
+Sometimes overthinking, sometimes stuck, but I keep coding.  
+Current goal: become a developer who truly understands the fundamentals, not just someone who knows how to use the tools.
